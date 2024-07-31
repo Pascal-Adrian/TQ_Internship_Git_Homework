@@ -1,1 +1,3 @@
-some uninspire line of text for the first commit
+some uninspired line of text for the first commit
+
+another uninspired line of text
